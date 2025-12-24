@@ -69,7 +69,8 @@ Doctor-Booking-Appointment_Website
 ├── backend       # Node + Express API
 └── README.md
 
-🧾 How to Run the Project Locally
+🧾 How to Run the Project Locally:
+
 1️⃣ Clone the repository
 git clone https://github.com/KonchadaAshok/Doctor-Booking-Appointment_Website.git
 
