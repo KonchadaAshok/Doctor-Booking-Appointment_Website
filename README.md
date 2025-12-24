@@ -127,9 +127,9 @@ Role-based access (User / Doctor / Admin)
 
 Real-world Git & GitHub workflow
 
-👨‍💻 Developer
-Name	Role
-Konchada Ashok	Full Stack Developer
-📎 Repository Link
+👨‍💻 Developer Name	           Role
+Konchada Ashok	      Full Stack Developer
 
+
+📎 Repository Link:
 🔗 https://github.com/KonchadaAshok/Doctor-Booking-Appointment_Website
